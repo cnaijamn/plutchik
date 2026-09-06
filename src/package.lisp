@@ -82,10 +82,10 @@
            #:outrage         ; 憤慨
            #:pessimism       ; 悲観
            #:morbidness      ; 病的状態
-           #:dominance       ; 病的状態
+           #:dominance       ; 優位
            ;; composite - dyad-4
-           #:bittersweetness ; 優位
-           #:ambivalence     ; 切なさ
+           #:bittersweetness ; 切なさ
+           #:ambivalence     ; 葛藤
            #:frozenness      ; 冷淡
            #:confusion       ; 混乱
 ))
